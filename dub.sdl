@@ -1,0 +1,7 @@
+name "peakterf"
+description "Backend for the PeakTERF website"
+authors "Luna"
+copyright "Copyright © 2020, Luna"
+license "BSD 2-clause"
+dependency "vibe-d" version="~>0.9.0"
+versions "VibeHighEventPriority"
